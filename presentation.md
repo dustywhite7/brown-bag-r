@@ -10,6 +10,7 @@ size: 4:3
 
 ## Brown Bag Seminar <br> TERC
 
+###### All resources available at [github.com/dustywhite7/brown-bag-r](https://github.com/dustywhite7/brown-bag-r)
 ---
 
 # Tools for the Day
