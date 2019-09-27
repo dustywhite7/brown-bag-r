@@ -2,8 +2,8 @@
 marp: true
 title: Week 2 - Loops, Conditions, and Functions
 theme: default
-class: invert
-size: 4:3
+class: 
+size: 4:3 
 ---
 
 # Using CBA Technology to Analyze Sports Data
